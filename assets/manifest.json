@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "origin": "Blender 4.3 procedural low-poly originals generated for TERM//SWARM",
+  "sprites": {
+    "player": "assets/sprites/player.png",
+    "bug": "assets/sprites/bug.png",
+    "hallucination": "assets/sprites/hallucination.png",
+    "blob": "assets/sprites/blob.png",
+    "wraith": "assets/sprites/wraith.png",
+    "boss": "assets/sprites/boss.png",
+    "terminal": "assets/sprites/terminal.png",
+    "cache": "assets/sprites/cache.png",
+    "turret": "assets/sprites/turret.png",
+    "crystal": "assets/sprites/crystal.png",
+    "cartridge": "assets/sprites/cartridge.png",
+    "plug": "assets/sprites/plug.png",
+    "drone": "assets/sprites/drone.png"
+  },
+  "atlas": {
+    "image": "assets/sprites/player-atlas.png",
+    "data": "assets/sprites/player-atlas.json",
+    "format": "Phaser JSON Hash",
+    "frames": 44
+  }
+}
