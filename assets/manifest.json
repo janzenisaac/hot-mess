@@ -14,7 +14,21 @@
     "crystal": "assets/sprites/crystal.png",
     "cartridge": "assets/sprites/cartridge.png",
     "plug": "assets/sprites/plug.png",
-    "drone": "assets/sprites/drone.png"
+    "drone": "assets/sprites/drone.png",
+    "weapon-laser": "assets/sprites/weapon-laser.png",
+    "weapon-flamethrower": "assets/sprites/weapon-flamethrower.png",
+    "weapon-bowling": "assets/sprites/weapon-bowling.png",
+    "weapon-soda": "assets/sprites/weapon-soda.png",
+    "weapon-rail": "assets/sprites/weapon-rail.png",
+    "weapon-scatter": "assets/sprites/weapon-scatter.png",
+    "enemy-sniper": "assets/sprites/enemy-sniper.png",
+    "enemy-charger": "assets/sprites/enemy-charger.png",
+    "enemy-mine": "assets/sprites/enemy-mine.png",
+    "miniboss-foreman": "assets/sprites/miniboss-foreman.png",
+    "miniboss-auditor": "assets/sprites/miniboss-auditor.png",
+    "boss-audit-engine": "assets/sprites/boss-audit-engine.png",
+    "boss-night-manager": "assets/sprites/boss-night-manager.png",
+    "boss-receipt-hydra": "assets/sprites/boss-receipt-hydra.png"
   },
   "atlas": {
     "image": "assets/sprites/player-atlas.png",
